@@ -16,6 +16,23 @@
       "message": "Needed for plus builds. Maybe committing to thirteen branch is okay, but if it\u0027s causing troubles, a new thirteen-plus branch should be created.",
       "revId": "898dc9f3462d47fcefa088d0a94e6d7d95c6d5b7",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7b0f9e18_5d4bc36e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000610
+      },
+      "writtenOn": "2023-02-08T03:55:58Z",
+      "side": 1,
+      "message": "For the plus version you need to create a thirteen-plus branch\nand there you can carry forward this change.",
+      "revId": "898dc9f3462d47fcefa088d0a94e6d7d95c6d5b7",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
