@@ -33,6 +33,24 @@
       "message": "For the plus version you need to create a thirteen-plus branch\nand there you can carry forward this change.",
       "revId": "898dc9f3462d47fcefa088d0a94e6d7d95c6d5b7",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "0681294c_69629a50",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000728
+      },
+      "writtenOn": "2023-02-08T04:07:13Z",
+      "side": 1,
+      "message": "I see. But I don\u0027t know how to create a new branch using gerrit. If it\u0027s possible, could you create it and carry forward this change? It is needed for OnePlus 6T.",
+      "parentUuid": "7b0f9e18_5d4bc36e",
+      "revId": "898dc9f3462d47fcefa088d0a94e6d7d95c6d5b7",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }
